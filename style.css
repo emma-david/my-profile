@@ -1,0 +1,22 @@
+body {
+	background-color: white;
+	color: red;
+	font-family: Courier;
+}
+	
+h1 {
+  color: red;
+  font-family: Helvetica;  
+}
+
+
+
+
+
+
+
+div {
+	background: white; 
+	border: 2px solid grey; 
+	margin: 10px
+}
